@@ -2,8 +2,6 @@
 
 ### A website that uses Front End Technologies, and Frame Works, which is based on a iOS Mock-Up
 
-#### [LiveDemo](https://devinleejones.github.io/dice-game/)
-
 # Technologies
 - HTML5
 - CSS3
